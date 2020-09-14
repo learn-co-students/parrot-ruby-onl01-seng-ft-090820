@@ -4,3 +4,9 @@ def parrot (language:"hello!"", animal:)
 end 
 
 parrot "Squawk!", animal: "bird"
+
+def method_with_return
+  retun "hello!"
+end
+
+method_with_return
