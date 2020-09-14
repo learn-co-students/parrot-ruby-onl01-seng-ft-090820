@@ -1,8 +1,8 @@
-def parrot (language:"Squawk!", animal:"bird")
+def parrot (language:"Pretty bird!", animal:"bird")
   puts language
   puts animal
 end 
 
-parrot language:"Pretty bird!", animal: "bird"
+parrot language:"Squawk!", animal: "bird"
 
 
