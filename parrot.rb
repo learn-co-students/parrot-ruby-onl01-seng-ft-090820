@@ -3,7 +3,7 @@ def parrot (language:"hello!"", animal:)
   puts animal
 end 
 
-parrot "Squawk!", animal: "bird"
+parrot language:"Squawk!", animal: "bird"
 
 def method_with_return
   retun "hello!"
