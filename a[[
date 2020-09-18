@@ -1,0 +1,4 @@
+def Parrot("Squawk!")
+"Squawk!" = Phrase
+puts ("Squawk!")
+end
